@@ -1606,7 +1606,7 @@ pada	O
 suatu	O
 hari	O
 (	O
-kiamat	Event
+kiamat	B-Event
 )	O
 yang	O
 seseorang	O
@@ -38209,8 +38209,8 @@ menyangkut	O
 baḥīrah	O
 ,	O
 sā’ibah	O
-,	:
-waṣīlah	:
+,	O
+waṣīlah	O
 ,	O
 dan	O
 ḥām	O
