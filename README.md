@@ -28,8 +28,8 @@ The initial categories were updated according to findings in the annotation stag
 17. Religion
 18. Food
 
-## List of Annotators
-There are 8 annotators that were involved in the annotation process. They are Informatics Engineering students at Islamic State University of Syarif Hidayatullah Jakarta as follows:
+## Annotation Stage
+There are 8 annotators that were involved in the annotation stage. They are Informatics Engineering students at Islamic State University of Syarif Hidayatullah Jakarta as follows:
 1. Anggita Maharani Gumay Putri
 2. Muhammad Destamal Junas
 3. Naufaldi
@@ -38,3 +38,6 @@ There are 8 annotators that were involved in the annotation process. They are In
 6. Septiany Nur Anggita
 7. Wilda Nurjannah
 8. William Santoso
+
+## Verification Stage
+We found many named entity candidates during the annotation stage. To verify the candidates, we consulted three experts from 
