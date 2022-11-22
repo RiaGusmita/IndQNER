@@ -1,6 +1,6 @@
 # IndQNER
 IndQNER is a Named Entity Recognition (NER) dataset that was created by manually annotating 8 chapters in Indonesian translation of the Quran. 
-The annotation was performed using a web-based text annotation tool, [Tagtog](https://www.tagtog.com/) and the BIO (Beginning-Inside-Outside) tagging format. 
+The annotation was performed using a web-based text annotation tool, [Tagtog](https://www.tagtog.com/), and the BIO (Beginning-Inside-Outside) tagging format. 
 The dataset contains:
 * 3118 sentences
 * 2476 named entities
@@ -39,5 +39,8 @@ There are 8 annotators that were involved in the annotation stage. They are Info
 7. Wilda Nurjannah
 8. William Santoso
 
-## Verification Stage
-We found many named entity candidates during the annotation stage. To verify the candidates, we consulted three experts from 
+<!-- ## Verification Stage
+We found many named entity candidates during the annotation stage. To verify the candidates, we consulted Quran's tafseer (content) experts as follows:
+1.  -->
+
+
