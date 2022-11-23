@@ -32,7 +32,7 @@ The initial categories were updated based on the information acquired during the
 There were eight annotators who contributed to the annotation process. They are Informatics Engineering students at the Islamic State University of Syarif Hidayatullah Jakarta. 
 1. Anggita Maharani Gumay Putri
 2. Muhammad Destamal Junas
-3. Naufaldi
+3. Naufaldi Hafidhigbal
 4. Nur Kholis Azzam Ubaidillah
 5. Puspitasari
 6. Septiany Nur Anggita
