@@ -46,5 +46,5 @@ We found many named entity candidates during the annotation stage. To verify the
 This dataset is also a part of [NusaCrowd project](https://github.com/IndoNLP/nusa-crowd) that aims to collect Natural Language Processing (NLP) datasets for the Indonesian languages.
 
 ## Contact
-If you have any questions or feedbacks, feel free to contact us at ria.hari.gusmita@uni-paderborn.de
+If you have any questions or feedbacks, feel free to contact us at ria.hari.gusmita@uni-paderborn.de or ria.gusmita@uinjkt.ac.id
 
