@@ -93,10 +93,8 @@ We performed several experiments with different parameters in IndoBERT fine-tuni
 |	  256		|	10	 |   0.67  | 0.65 |  0.65  |
 |	  256 		|	20	 |   0.60  | 0.59 |  0.59  |
 |	  256		|	40	 |   0.75  | 0.72 |  0.71  |
-|	  256		|       100	 |   0.73  | 0.68 |  0.68  |
 |	  512		|	10	 |   0.72  | 0.62 |  0.64  |
 |	  512		|	20	 |   0.62  | 0.57 |  0.58  |
 |	  512		|	40	 |   0.72  | 0.66 |  0.67  |
-|	  512		|	100	 |   0.68  | 0.68 |  0.67  |
 
 This dataset is also a part of [NusaCrowd project](https://github.com/IndoNLP/nusa-crowd) that aims to collect Natural Language Processing (NLP) datasets for the Indonesian languages.
