@@ -5,7 +5,7 @@ This repository gives access to IndQNER dataset as well as codes that were used 
 This repository is structured as follows:
 
 ``` 
-    ├── Evaluation Codes/							# Code for the evaluation in two scenarios
+    ├── Evaluation Codes/						# Code for the evaluation in two scenarios
     │   ├── IndQNER_Evaluation_using_BiLSTM+CRF/			# the first scenario (supervised learning) of the evaluation
     │   ├── IndQNER_Evaluation_using_IndoBERT_Fine-tuning/		# the second scenario (transfer learning) of the evaluation
     ├── datasets/							# Location where splits of the data are stored
@@ -24,9 +24,9 @@ This repository is structured as follows:
 IndQNER is a Named Entity Recognition (NER) benchmark dataset that was created by manually annotating 8 chapters in the Indonesian translation of the Quran. 
 The annotation was performed using a web-based text annotation tool, [Tagtog](https://www.tagtog.com/), and the BIO (Beginning-Inside-Outside) tagging format. 
 The dataset contains:
-* 3114 sentences
-* 48689 tokens
-* 2476 named entities
+* 3117 sentences
+* 62027 tokens
+* 2475 named entities
 * 18 named entity categories
 
 ## Named Entity Classes
