@@ -5,13 +5,13 @@ This repository gives access to IndQNER dataset as well as codes that were used 
 This repository is structured as follows:
 
 ``` 
-    ├── Evaluation Codes/						# Code for the evaluation in two scenarios
+    ├── Evaluation Codes/							# Code for the evaluation in two scenarios
     │   ├── IndQNER_Evaluation_using_BiLSTM+CRF/			# the first scenario (supervised learning) of the evaluation
     │   ├── IndQNER_Evaluation_using_IndoBERT_Fine-tuning/		# the second scenario (transfer learning) of the evaluation
     ├── datasets/							# Location where splits of the data are stored
     │   ├── dev.txt/							# Development/validation dataset
     │   ├── test.txt/							# Test dataset
-    │	├── train.txt/							# Training dataset
+    │	├── train.txt/ 							# Training dataset
     ├── Annotation guideline in English.pdf/				# The annotation guideline of IndQNER in English language
     ├── Annotation guideline in Indonesian.pdf				# The annotation guideline of IndQNER in Indonesian language 
     ├── Asmaul_Husna_Reference						# The reference used for Asmaul Husna
